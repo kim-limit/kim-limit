@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <hr/>
 :seedling: Dongguk University Information & Communication Egineering - 2018 ~ <br/>
 :seedling: Dongguk University Data Science Software - 2022 ~ <br/>
-:seedling: Dongguk University Data Mining Lab - 2023 ~ <br/>
+:seedling: Dongguk University DataMining Lab - 2023 ~ <br/>
 :seedling: Hyundai Softeer Bootcamp Frontend 2nd - 2023.07.03 ~ <br/>
 <br/>
 <h3>💪🏽 Tech stack</h3>
