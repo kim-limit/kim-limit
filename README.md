@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <div><h3> 🐰: Profile</h3></div>
 <hr/>
-:seedling: Dongguk University Information & Communication Egineering - 2018 ~ <br/>
-:seedling: Dongguk University Data Science Software - 2022 ~ <br/>
-:seedling: Dongguk University DataMining Lab - 2023 ~ <br/>
+:seedling: Information & Communication Egineering - 2018 ~ <br/>
+:seedling: Data Science Software - 2022 ~ <br/>
+:seedling: DataMining Lab - 2023 ~ <br/>
 :seedling: Hyundai Softeer Bootcamp Frontend 2nd - 2023.07.03 ~ <br/>
 <br/>
 <h3>💪🏽 Tech stack</h3>
